@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ianmcwherter.github.io/drivemail/sitemap.xml
