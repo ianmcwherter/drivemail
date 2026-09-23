@@ -1,9 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ianmcwherter.github.io/drivemail/</loc><priority>1.0</priority></url>
-  <url><loc>https://ianmcwherter.github.io/drivemail/email-app-for-carplay.html</loc><priority>0.9</priority></url>
-  <url><loc>https://ianmcwherter.github.io/drivemail/listen-to-email-while-driving.html</loc><priority>0.9</priority></url>
-  <url><loc>https://ianmcwherter.github.io/drivemail/can-siri-read-emails.html</loc><priority>0.8</priority></url>
-  <url><loc>https://ianmcwherter.github.io/drivemail/gmail-on-carplay.html</loc><priority>0.8</priority></url>
-  <url><loc>https://ianmcwherter.github.io/drivemail/drivemail-vs-speaking-email.html</loc><priority>0.8</priority></url>
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"></urlset>
